@@ -14,5 +14,21 @@
         "links": [
             "https://gofile.io/d/foIX10"
         ]
+    },
+    {
+      "title": "Subnautica",
+      "description": "Descendez dans les profondeurs d'un monde sous-marin étranger plein de merveilles et périls. Concevez des équipements, pilotez des sous-marins, terraformez un terrain voxel, et adaptez-vous à la vie sauvage afin d’explorer le monde, tout en essayant de survivre.",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1729208919",
+      "links": [
+        "https://megadb.net/kuuuzovz51sn"
+      ]
+    },
+    {
+      "title": "Subnautica: Below Zero",
+      "description": "Vivez une aventure sous-marine glaciale sur une planète extraterrestre. Below Zero se déroule deux ans après le premier Subnautica. Bravez les intempéries en construisant des habitats, en fabriquant des outils et en sondant les mystères de Subnautica.",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg?t=1729209036",
+      "links": [
+        "https://megadb.net/zjnj3oprvw8r"
+      ]
     }
 ]
