@@ -2129,5 +2129,16 @@
     ],
     "type": "series",
     "genre": ["drame"]
+  },
+  {
+    "title": "Gladiator II",
+    "year": "2024",
+    "description": "Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle, Lucius est forcé d'entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d'une main de fer. La rage au cœur et l'avenir de l'Empire en jeu, Lucius doit se tourner vers son passé pour trouver la force et l'honneur de rendre la gloire de Rome à son peuple.",
+    "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rTa9otCuUwcJKoI78SkleDUC0pH.jpg",
+    "links": [
+      "https://uqload.net/embed-94pub0s3v4zi.html"
+    ],
+    "type": "film",
+    "genre": ["action", "aventure"]
   }
 ]
