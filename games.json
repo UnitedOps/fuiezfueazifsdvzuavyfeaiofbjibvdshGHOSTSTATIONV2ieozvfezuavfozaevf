@@ -101,5 +101,21 @@
     "Graphiques : NVIDIA GTX 780 3GB /AMD R9 290 4GB",
     "Espace disque : 12 GB d'espace disque disponible"
   ]
-    }
+    },
+        {
+  "title": "Exemple de Jeu",
+  "description": "Un jeu très cool à tester.",
+  "config": [
+    "Système d'exploitation *: Windows 7/8.1/10 (version 64-bit)",
+    "Processeur : Intel i5-2400/AMD FX-8320.",
+    "Mémoire vive : 8 GB de mémoire",
+    "Graphiques : NVIDIA GTX 780 3GB /AMD R9 290 4GB",
+    "Espace disque : 12 GB d'espace disque disponible"
+  ],
+  "image": "https://example.com/jeu-poster.jpg",
+  "links": [
+    "https://example.com/download1",
+    "https://example.com/download2"
+  ]
+}
 ]
