@@ -2140,5 +2140,27 @@
     ],
     "type": "film",
     "genre": ["action", "aventure"]
-  }
+  },
+    {
+      "title": "Jack et le haricot magique",
+      "year": "2007",
+      "description": "Jack Robinson est un riche homme d'affaires qui n'a pas de temps pour autre chose que le travail. Cependant, une malédiction familiale planne sur lui - aucun homme de la lignée Robinson n'a jamais vécu au delà de l'âge de trente ans. A l'approche de son prochain anniversaire, Jack découvre ce qui semble être des restes de squelette littéralement géants et croise une femme mystérieuse. Jack décide d'aller avec elle pour un autre monde où tout lui est révélé avec l'histoire de son ancêtre, le Jack et le haricot magique original. Afin de sauver sa propre vie et le monde des géants, Jack doit corriger les erreurs du passé et retourner la harpe magique et la poule aux œufs d'or à leur place légitime.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mc6QDvw7hExEILHJ1zCjZ3MkUya.jpg",
+      "links": [
+        "https://uqload.net/embed-02m3e9moc9ic.html"
+      ],
+      "type": "film",
+      "genre": ["action", "aventure", "science-fiction", "drame"]
+    },
+    {
+      "title": "Jack le chasseur de géants",
+      "year": "2013",
+      "description": "Un jeune ouvrier agricole du nom de Jack ouvre involontairement un passage entre notre monde et celui d’une terrifiante race de géants. Débarquant sur la Terre pour la première fois depuis des siècles et des siècles, les géants n’ont qu’un objectif : reprendre le territoire qu’ils ont jadis perdu. Jack doit tout mettre en œuvre pour les arrêter. Il va devenir malgré lui un guerrier valeureux. Le salut de l’humanité repose sur ses épaules…",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yHTPIpDydusmahilkR6MV4YxzgR.jpg",
+      "links": [
+        "https://uqload.net/embed-4npyoi2y9416.html"
+      ],
+      "type": "film",
+      "genre": ["action", "aventure", "fantastique", "drame"]
+    }
 ]
