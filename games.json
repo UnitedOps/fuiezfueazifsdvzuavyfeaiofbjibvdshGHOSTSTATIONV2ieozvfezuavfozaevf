@@ -499,5 +499,68 @@
       "credit": [
         "steamrip.com"
       ]
+    },
+    {
+      "title": "Warhammer 40,000 : Boltgun",
+      "description": "Chargez votre Bolter et déchaînez l’arsenal mythique des Space Marines à travers une explosion de gore, de sprites et de pixels dans un cocktail détonnant mêlant Warhammer 40,000, gameplay nerveux et l’esthétique stylée des shooters rétro des années 90.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2005010/header.jpg?t=1732282865",
+      "links": [
+        "https://megadb.net/8w8zjudvdfwf"
+      ],
+      "config": [
+        "Système d'exploitation et processeur 64 bits nécessaires",
+        "Système d'exploitation : Windows 10",
+        "Processeur : AMD Phenom II X4 965 / Intel Core i3-2120",
+        "Mémoire vive : 8 GB de mémoire",
+        "Graphiques : 1 GB VRAM, AMD Radeon HD 7770 / NVIDIA GeForce GTX 560",
+        "DirectX : Version 11",
+        "Espace disque : 5 GB d'espace disque disponible",
+        "Notes supplémentaires : Requires a 64-bit processor and operating system, 30 FPS, 1920x1080 in low"
+      ],
+      "credit": [
+        "steamrip.com"
+      ]
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "description": "Devenez un Space Marine, véritable incarnation de puissance surhumaine. Massacrez les nuées tyranides grâce à vos talents mortels et à votre armement. Défendez l’Imperium seul ou à plusieurs au cœur de combats spectaculaires à la troisième personne.",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1736766952",
+      "links": [
+        "https://gofile.io/d/RQgwlP"
+      ],
+      "config": [
+        "Système d'exploitation et processeur 64 bits nécessaires",
+        "Système d'exploitation : Windows 10 (1903 min)/11 64-bit",
+        "Processeur : AMD Ryzen 5 2600X / Intel Core i5-8600K",
+        "Mémoire vive : 8 GB de mémoire",
+        "Graphiques : 6 GB VRAM, AMD Radeon RX 580 / Nvidia GeForce GTX 1060",
+        "DirectX : Version 12",
+        "Espace disque : 75 GB d'espace disque disponible",
+        "Notes supplémentaires : SSD required. 30 FPS in 1920x1080 with \"Low\" preset."
+      ],
+      "credit": [
+        "steamrip.com"
+      ]
+    },
+    {
+      "title": "Liar's Bar",
+      "description": "Plongez dans cette expérience multijoueur en ligne se déroulant dans un bar sommaire où les jeux sont aussi dangereux que les clients. Rejoignez une table de 4 et testez vos compétences dans Liar's Dice et Liar's Deck, où le mensonge et le bluff sont la clé de la victoire. Prêt pour une soirée au Liar's Bar ?",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3097560/header.jpg?t=1735072240",
+      "links": [
+        "https://megadb.net/hilecxar3r5b"
+      ],
+      "config": [
+        "Système d'exploitation et processeur 64 bits nécessaires",
+        "Système d'exploitation : Windows® 10 (64-bit)",
+        "Processeur : Intel® Core™ i5-4670 (quad-core) / AMD® FX-Series™ FX-4350 (quad-core)",
+        "Mémoire vive : 4 GB de mémoire",
+        "Graphiques : NVIDIA® GeForce® GTX 1050 (2 GB) / AMD® Radeon™ RX-460 (4 GB) / Intel® Arc™ A380 (6 GB)",
+        "DirectX : Version 11",
+        "Réseau : connexion internet haut débit",
+        "Espace disque : 4 GB d'espace disque disponible"
+      ],
+      "credit": [
+        "steamrip.com"
+      ]
     }
 ]
