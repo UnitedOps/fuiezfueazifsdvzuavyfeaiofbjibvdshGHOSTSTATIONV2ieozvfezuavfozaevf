@@ -562,5 +562,25 @@
       "credit": [
         "steamrip.com"
       ]
+    },
+    {
+      "title": "Sea of Thieves",
+      "description": "Sea of Thieves est un jeu d’aventure pirate à succès offrant l'expérience ultime de la vie de pirate avec des trésors perdus, des batailles intenses, des monstres marins à affronter et plus encore. Cette édition mise à jour inclut des bonus numériques.",
+      "image": "https://shared.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg?t=1729267948",
+      "links": [
+        "https://gofile.io/d/Un6Fyf"
+      ],
+      "config": [
+        "Système d'exploitation et processeur 64 bits nécessaires",
+        "Système d'exploitation : Windows® 10",
+        "Processeur : Intel Q9450 @ 2.6GHz - AMD Phenom II X6 @ 3.3 GHz",
+        "Mémoire vive : 4 GB de mémoire",
+        "Graphiques : Nvidia GeForce GTX 650 - AMD Radeon 7750 - Intel A310",
+        "DirectX : Version 11",
+        "Espace disque : 100 GB d'espace disque disponible"
+      ],
+      "credit": [
+        "steamrip.com"
+      ]
     }
 ]
