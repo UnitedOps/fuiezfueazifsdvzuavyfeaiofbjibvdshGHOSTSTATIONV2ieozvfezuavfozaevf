@@ -2697,15 +2697,5 @@
       "type": "series",
       "genre": ["action", "aventure", "mystere", "drame"],
       "credit": ["fstream.one"]
-    },
-  {
-    "title": "Mercredi - Saison 1",
-    "year": "2022",
-    "description": "Infusée de mystère...",
-    "image": "https://image.tmdb.org/t/p/w500/...",
-    "links": ["https://uqload.ws/embed-..."],
-    "type": "series",
-    "genre": ["science-fiction", "fantastique", "mystere", "comedie"],
-    "credit": ["aucun"]
-  },
+    }
   ]
