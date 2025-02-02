@@ -2697,5 +2697,29 @@
       "type": "series",
       "genre": ["action", "aventure", "mystere", "drame"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "Vaiana, la légende du bout du monde",
+      "year": "2016",
+      "description": "Il y a 3 000 ans, les plus grands marins du monde parcouraient le vaste océan Pacifique, à la découverte des nombreuses îles de l’Océanie. Puis, pendant un millénaire, ils cessèrent de voyager, et nul ne sait pourquoi. Walt Disney Animation Studios nous offre Vaiana, La Légende du bout du monde, l'histoire d'une jeune fille aventureuse qui prend la mer pour sauver son peuple. Au cours de son voyage, Vaiana rencontre le puissant demi-dieu Maui qui la guidera dans sa quête pour devenir une experte de la navigation. Ensemble, ils entreprennent un voyage rocambolesque et affrontent des monstres gigantesques et bien des dangers. Vaiana va accomplir la mission de ses ancêtres et découvrir ce qu’elle a toujours cherché : son identité.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u9rrmuYW9jCmFn3zN0RX9vhzRKp.jpg",
+      "links": [
+        "https://uqload.net/embed-kgfe4jl3z6iz.html"
+      ],
+      "type": "film",
+      "genre": ["aventure", "comedie", "famille", "animation"],
+      "credit": ["fstream.one"]
+    },
+    {
+      "title": "Vaiana 2",
+      "year": "2024",
+      "description": "Après avoir reçu une invitation inattendue de ses ancêtres, Vaiana entreprend un périple qui la conduira jusqu’aux eaux dangereuses situées aux confins des mers des îles du Pacifique. Elle y vivra des péripéties comme jamais vécues auparavant.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/adOCovJF7zSziUL15iHn8gdXUoc.jpg",
+      "links": [
+        "https://uqload.net/embed-uphswzozgd97.html"
+      ],
+      "type": "film",
+      "genre": ["aventure", "comedie", "famille", "animation", "mystere"],
+      "credit": ["fstream.one"]
     }
   ]
