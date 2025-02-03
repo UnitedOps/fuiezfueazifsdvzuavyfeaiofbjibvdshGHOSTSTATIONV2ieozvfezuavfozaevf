@@ -2721,5 +2721,17 @@
       "type": "film",
       "genre": ["aventure", "comedie", "famille", "animation", "mystere"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "Sonic 3, le film",
+      "year": "2024",
+      "description": "Sonic, Knuckles et Tails sont à nouveau réunis face à un puissant nouvel adversaire, Shadow, un mystérieux vilain doté de pouvoirs comme ils n'en ont encore jamais vu. Leurs habiletés étant toutes surclassées, l'Équipe Sonic doit tenter une alliance improbable dans l'espoir d'arrêter Shadow et de protéger la planète.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gERwLGTa6JGN4qXjkip13eDaxy1.jpg",
+      "links": [
+        "https://uqload.net/embed-7nc0jo5fsrzr.html"
+      ],
+      "type": "film",
+      "genre": ["science-fiction", "aventure", "comedie", "famille", "action"],
+      "credit": ["fstream.one"]
     }
   ]
