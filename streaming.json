@@ -2745,5 +2745,29 @@
       "type": "film",
       "genre": ["science-fiction", "comedie", "famille", "action"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "Destroy All Neighbors",
+      "year": "2024",
+      "description": "Le musicien, William Brown, se retrouve dans un véritable cauchemar lorsqu'il tue accidentellement Vlad, son voisin.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jIpjUy6ACDk8Fc8GkynLcIAPP49.jpg",
+      "links": [
+        "https://uqload.net/embed-wkbmqzbx5s86.html"
+      ],
+      "type": "film",
+      "genre": ["horreur", "comedie"],
+      "credit": ["fstream.one"]
+    },
+    {
+      "title": "Croquette le chat merveilleux",
+      "year": "2024",
+      "description": "C’est bien connu, les chats ont plusieurs vies ! Croquette vient de gâcher celle de trop et il ferait tout pour retrouver Rose, sa maîtresse adorée. On lui accorde une dernière chance, cependant une règle a changé : Croquette peut revenir, mais à un détail près... Désormais transformé en cheval, chien, perroquet ou poisson, l’aventure ne fait que commencer !",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zmvGXy0ZJirydstehP7UzmR3nys.jpg",
+      "links": [
+        "https://uqload.net/embed-bb1fjg4nd6c9.html"
+      ],
+      "type": "film",
+      "genre": ["animation", "comedie", "famille", "fantastique"],
+      "credit": ["fstream.one"]
     }
   ]
