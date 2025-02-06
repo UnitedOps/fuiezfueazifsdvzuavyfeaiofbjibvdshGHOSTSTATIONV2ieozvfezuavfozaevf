@@ -2769,5 +2769,29 @@
       "type": "film",
       "genre": ["animation", "comedie", "famille", "fantastique"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "L'Imperméable magique",
+      "year": "2024",
+      "description": "Trois enfants découvrent un imperméable magique qui les transporte dans le corps de son propriétaire, un magicien maudit. Avec une sorcière rejetée à leurs trousses, ils doivent résoudre le mystère de l'imperméable et briser sa malédiction avant qu'il ne soit trop tard.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wHSm9PflIMsbtxbtVIB0upsbQvZ.jpg",
+      "links": [
+        "https://uqload.net/embed-4fdk1igdd2n8.html"
+      ],
+      "type": "film",
+      "genre": ["aventure", "comedie", "famille", "fantastique"],
+      "credit": ["fstream.one"]
+    },
+    {
+      "title": "Mufasa : Le Roi Lion",
+      "year": "2024",
+      "description": "Rafiki raconte à la jeune lionne Kiara - fille de Simba et Nala - la légende de Mufasa. Il est épaulé par Timon et Pumbaa, célèbres pour leurs répliques percutantes. Présentée sous forme de flashbacks, l'histoire de Mufasa retrace le parcours d’un lionceau orphelin, seul et désemparé, qui croise un jour la route du sympathique Taka, héritier d’une lignée royale. Cette rencontre inattendue devient le point de départ d’un voyage jalonné de péripéties pour un petit groupe « d’indésirables » formé autour d’eux, désormais en quête de son destin. Leur amitié sera mise à rude épreuve lorsqu’ils devront s’unir pour affronter un adversaire aussi menaçant que redoutable…",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/67BPUqGcMK4iG97JNNX4GE0sDwo.jpg",
+      "links": [
+        "https://uqload.net/embed-3a86nlgbtlj7.html"
+      ],
+      "type": "film",
+      "genre": ["aventure", "drame", "famille", "animation"],
+      "credit": ["fstream.one"]
     }
   ]
