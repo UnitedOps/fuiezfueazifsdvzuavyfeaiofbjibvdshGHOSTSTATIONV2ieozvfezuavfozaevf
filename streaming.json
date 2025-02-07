@@ -2793,5 +2793,29 @@
       "type": "film",
       "genre": ["aventure", "drame", "famille", "animation"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "À Contre-Sens",
+      "year": "2023",
+      "description": "Noah doit quitter sa ville, son petit ami et ses amis pour emménager dans le manoir de William Leister, le nouveau et riche mari de sa mère. Âgée de dix-sept ans, fière et indépendante, Noah rencontre Nick, son nouveau demi-frère, et leurs fortes personnalités s’entrechoquent dès le début. Noah découvre bientôt que derrière l'image d'un fils modèle, Nick cache une vie de bagarre, de jeu et de courses automobiles illégales. Malgré l'abîme qui les sépare, tous deux commencent à ressentir une attirance irrésistible qui se transformera bientôt en feu et en folle passion. Ni la rivalité permanente, ni l'opposition de leur entourage ne peuvent les empêcher de tomber secrètement et follement amoureux. Mais le présent turbulent de Nick et le passé orageux de Noah mettront à l'épreuve leur vie et leur amour interdit.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ZCfSSxZ2e4Kiwu3Y9dvfT5n1m6.jpg",
+      "links": [
+        "https://uqload.net/embed-t7vopzvn7dc5.html"
+      ],
+      "type": "film",
+      "genre": ["romance", "drame"],
+      "credit": ["fstream.one"]
+    },
+    {
+      "title": "À Contre-Sens 2",
+      "year": "2024",
+      "description": "La relation entre Noah et Nick semble plus forte que jamais, malgré la volonté de leurs parents de les séparer. Mais avec son travail et son entrée à la fac, de nouvelles perspectives amoureuses feront trembler les fondations de leur relation et celles des Leister. Si tout le monde est prêt à détruire une relation, aura-t-on droit à une fin heureuse ?",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bn4qZZO5nSN48D5pXVypf4MF2wg.jpg",
+      "links": [
+        "https://uqload.net/embed-zh3utt0w4t0l.html"
+      ],
+      "type": "film",
+      "genre": ["romance", "drame"],
+      "credit": ["fstream.one"]
     }
   ]
