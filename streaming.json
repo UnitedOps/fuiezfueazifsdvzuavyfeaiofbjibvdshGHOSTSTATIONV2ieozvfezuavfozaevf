@@ -2817,5 +2817,17 @@
       "type": "film",
       "genre": ["romance", "drame"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "Gran Turismo",
+      "year": "2023",
+      "description": "Gran Turismo est inspiré de l'incroyable histoire vécue d'une invraisemblable bande d'infortunés – un amateur de jeu vidéo de classe ouvrière, un ex-pilote d'autos de course paumé et un idéaliste de l'industrie du sport motorisé. Ensemble, ils risquent tout pour percer dans le sport le plus prestigieux au monde. Gran Turismo est une captivante histoire et un feu roulant d'action qui prouvent que tout est possible lorsqu'on conduit avec l'énergie du désespoir.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ozXWxrxC6LGI7LMKMCMjLzFzsyr.jpg",
+      "links": [
+        "https://uqload.net/embed-6gdg062kue8v.html"
+      ],
+      "type": "film",
+      "genre": ["aventure", "action", "drame"],
+      "credit": ["fstream.one"]
     }
   ]
