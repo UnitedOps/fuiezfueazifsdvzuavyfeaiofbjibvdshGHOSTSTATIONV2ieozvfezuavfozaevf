@@ -2829,5 +2829,29 @@
       "type": "film",
       "genre": ["aventure", "action", "drame"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "Mary et Max",
+      "year": "2009",
+      "description": "En faisant la chronique du voyage de Mary de l’adolescence à l’âge adulte et du passage de Max de la maturité à la vieillesse, Mary et Max explore un lien qui surmonte bien plus d’aléas qu’une amitié classique. Comme Harvie Krumpet, des mêmes auteurs, Oscar du meilleur court métrage d’animation, Mary et Max est un parcours à la fois hilarant et poignant à travers l’amitié, l’autisme, la taxidermie, la psychiatrie, l’alcoolisme, l’origine des bébés, l’obésité, la cleptomanie, les différences sexuelles, la confiance, l’accouplement des chiens, les différences religieuses, l’agoraphobie et bien d’autres surprises de la vie.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qCedjXNk74OqCI5ycY6GnbTVhXM.jpg",
+      "links": [
+        "https://uqload.net/embed-ociwwxnr8ov3.html"
+      ],
+      "type": "film",
+      "genre": ["animation", "comedie", "drame"],
+      "credit": ["fstream.one"]
+    },
+    {
+      "title": "À Toute Allure",
+      "year": "2024",
+      "description": "Elle est officier de sous-marin tactique. Il est steward. Avant de plonger pour 90 jours elle choisit d’en faire son \"quatre-heures\". Mais le voilà qui s’accroche ! Qui la suit ! Qui la colle ! Où va-t-on si le personnel navigant d’un 747 se targue de romantisme ? Comme si on avait le temps d’être amoureuse à bord d’un bâtiment militaire ! Reste que l’océan Pacifique n’est pas assez grand. L’océan Arctique non plus. Le monde est si petit quand on s’aime d’un si grand amour.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lEiDGpR7EfLzOfcnoh4nwWcVsqt.jpg",
+      "links": [
+        "https://uqload.net/embed-ifeiye81oray.html"
+      ],
+      "type": "film",
+      "genre": ["comedie", "romance"],
+      "credit": ["fstream.one"]
     }
   ]
