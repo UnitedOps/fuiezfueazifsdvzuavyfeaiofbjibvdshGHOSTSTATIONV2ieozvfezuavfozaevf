@@ -2853,5 +2853,29 @@
       "type": "film",
       "genre": ["comedie", "romance"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "L'Amour ouf",
+      "year": "2024",
+      "description": "Les années 80, dans le nord de la France. Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie, il traîne. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait, ces deux-là sont comme les deux ventricules du même cœur...",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6akNNv4KyrguZUiG4uemfV6toVq.jpg",
+      "links": [
+        "https://uqload.net/embed-odviz3bfa0a2.html"
+      ],
+      "type": "film",
+      "genre": ["drame", "romance", "crime"],
+      "credit": ["fstream.one"]
+    },
+    {
+      "title": "Ratatouille",
+      "year": "2007",
+      "description": "Rémy est un jeune rat qui rêve de devenir un grand chef français. Ni l'opposition de sa famille, ni le fait d'être un rongeur dans une profession qui les déteste ne le démotivent. Rémy est prêt à tout pour vivre sa passion de la cuisine… et le fait d'habiter dans les égouts du restaurant ultra coté de la star des fourneaux, Auguste Gusteau, va lui en donner l'occasion ! Malgré le danger et les pièges, la tentation est grande de s'aventurer dans cet univers interdit. Écartelé entre son rêve et sa condition, Rémy va découvrir le vrai sens de l'aventure, de l'amitié, de la famille… et comprendre qu'il doit trouver le courage d'être ce qu'il est : un rat qui veut être un grand chef…",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iFcWBdTPeHQDS3OQxBcH3QaYXYv.jpg",
+      "links": [
+        "https://uqload.net/embed-f5wyyu3u0i6a.html"
+      ],
+      "type": "film",
+      "genre": ["animation", "comedie", "famille", "fantastique"],
+      "credit": ["fstream.one"]
     }
   ]
