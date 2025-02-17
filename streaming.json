@@ -2895,7 +2895,7 @@
       ],
       "type": "series",
       "genre": ["comedie", "drame"],
-      "credit": ["wiflix-adresses.fun"]
+      "credits": ["wiflix-adresses.fun"]
     },
     {
       "title": "Bref. - Saison 2",
@@ -2912,6 +2912,6 @@
       ],
       "type": "series",
       "genre": ["comedie", "drame"],
-      "credit": ["wiflix-adresses.fun"]
+      "credits": ["wiflix-adresses.fun"]
     }
   ]
