@@ -2877,5 +2877,41 @@
       "type": "film",
       "genre": ["animation", "comedie", "famille", "fantastique"],
       "credit": ["fstream.one"]
+    },
+    {
+      "title": "Bref. - Saison 1",
+      "year": "2011",
+      "description": "Les chroniques extraordinaires d’un homme ordinaire. Dans la vie, au début on naît, à la fin on meurt, pendant ce temps là, il se passe des trucs. Bref, c'est la vie d'un mec pendant ce temps là. Célibataire tous les matins mais pas forcément tous les soirs, ce mec dont on ne connaît pas le nom partage sa vie avec nous par de brèves anecdotes. Son introspection est souvent troublée par les rencontres qu’il fait et par son entourage.",
+      "image": "https://image.tmdb.org/t/p/w300_and_h450_face/alaRcixeZ1lLVb5NuvmJnAsfbyA.jpg",
+      "links": [
+        "https://luluvdo.com/e/x4h4etg0m3j5",
+        "https://luluvdo.com/e/pfucrx4y7yk5",
+        "https://luluvdo.com/e/aumdbhlnz84i",
+        "https://luluvdo.com/e/rpd9rfkomzt8",
+        "https://luluvdo.com/e/wh2yy3jb1emq",
+        "https://luluvdo.com/e/niw6dbqsnwon",
+        "https://luluvdo.com/e/9j25e1cf8mkc",
+        "https://luluvdo.com/e/g80080ugf4js"
+      ],
+      "type": "series",
+      "genre": ["comedie", "drame"],
+      "credit": ["wiflix-adresses.fun"]
+    },
+    {
+      "title": "Bref. - Saison 2",
+      "year": "2025",
+      "description": "À force de non-choix et de ne jamais réellement se prendre en main, il se retrouve encore et encore à la même place, en galère de thunes, sans copine et sans travail. Un énième retour à la case départ qui va enfin le motiver à réagir, à se prendre en main et à écouter quelqu’un d’autre que la voix dans sa tête.",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4iETOXjx0M7ahNrpQlwL8x9Bodf.jpg",
+      "links": [
+        "https://luluvdo.com/e/2zivi6koacip",
+        "https://luluvdo.com/e/fpaoyhxmiert",
+        "https://luluvdo.com/e/8j5zuwacfk13",
+        "https://luluvdo.com/e/3nfhq4w1fu3d",
+        "https://luluvdo.com/e/tzjfbhi1hdwf",
+        "https://luluvdo.com/e/u26qcs9wcbo1"
+      ],
+      "type": "series",
+      "genre": ["comedie", "drame"],
+      "credit": ["wiflix-adresses.fun"]
     }
   ]
